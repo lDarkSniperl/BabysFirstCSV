@@ -1,0 +1,6 @@
+c:\users\justin\documents\visual studio 2012\Projects\CSV Parser 1\CSV Parser 1\bin\Debug\CSV Parser 1.exe.config
+c:\users\justin\documents\visual studio 2012\Projects\CSV Parser 1\CSV Parser 1\obj\Debug\CSV Parser 1.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2012\Projects\CSV Parser 1\CSV Parser 1\bin\Debug\CSV Parser 1.exe
+c:\users\justin\documents\visual studio 2012\Projects\CSV Parser 1\CSV Parser 1\bin\Debug\CSV Parser 1.pdb
+c:\users\justin\documents\visual studio 2012\Projects\CSV Parser 1\CSV Parser 1\obj\Debug\CSV Parser 1.exe
+c:\users\justin\documents\visual studio 2012\Projects\CSV Parser 1\CSV Parser 1\obj\Debug\CSV Parser 1.pdb
